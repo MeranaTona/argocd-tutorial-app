@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: tf333/nginx:v0.1.1
+        image: tf333/nginx:v0.1.2
         resources:
           limits:
             memory: "128Mi"
